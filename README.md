@@ -5,4 +5,4 @@ This repository contains scripts used in Gou and Liu, 2025.
 
 "Diabase_Rheology.py": Code used to calculate viscosity profiles of different materials at depths 0-30 km.
 
-"Diabase_Serpentinization": Code used to calculate viscosity profiles of serpentinized greenstone sequences.
+"Diabase_Serpentinization.py": Code used to calculate viscosity profiles of serpentinized greenstone sequences.
